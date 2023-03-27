@@ -1,0 +1,6 @@
+"C:\Program Files\Java\jdk-19\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\lib\idea_rt.jar=53969:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "D:\practise java\out\production\practise java" A
+ the  total sales of year  2022 is :825.0
+[20.0, -20.0, 10.0, 30.0, -15.0]
+[16.666666666666664, 8.695652173913043, 16.666666666666664, 14.285714285714285, 7.317073170731707]
+
+Process finished with exit code 0
